@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Android Core</string>
+    <string name="main_fragment_textview">MainFragment</string>
+    <string name="main_fragment_button_toast">Create Toast</string>
+    <string name="main_fragment_button_snackbar">Create SnackBar</string>
+    <string name="main_fragment_button_notification">Create Notification</string>
+    <string name="main_fragment_button_future">Send Message to the Future</string>
+    <string name="main_fragment_button_background">Fibonacci in the Background</string>
+    <string name="toast_default_message">Toast counter: %d</string>
+    <string name="snackbar_default_message">This is a SnackBar</string>
+    <string name="notification_default_title">My Notification</string>
+    <string name="notification_default_content">This should be the body of the notification</string>
+    <string name="notification_default_content_big">This should be the body of the notification, and it should expand</string>
+    <string name="channel_name" translatable="false">Default Channel</string>
+    <string name="channel_description">This is the default Notification Channel</string>
+
+</resources>

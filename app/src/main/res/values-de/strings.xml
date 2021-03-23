@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_fragment_textview">MainFragment</string>
+    <string name="main_fragment_button_toast">Toast anzeigen</string>
+    <string name="main_fragment_button_snackbar">SnackBar anzeigen</string>
+    <string name="toast_default_message">Toast Zähler: %d</string>
+    <string name="snackbar_default_message">Dies ist eine SnackBar</string>
+    <string name="main_fragment_button_notification">Benachrichtigung anzeigen</string>
+    <string name="notification_default_title">Meine Benachrichtigung</string>
+    <string name="notification_default_content">Dies ist der text der Benachrichtigung</string>
+    <string name="notification_default_content_big">Dies ist der text der Benachrichtigung in der langen Form. Die Benachrichtigung sollte ausklappen</string>
+    <string name="channel_description">Dies ist der Standard Kanal für Benachrichtigungen</string>
+</resources>
